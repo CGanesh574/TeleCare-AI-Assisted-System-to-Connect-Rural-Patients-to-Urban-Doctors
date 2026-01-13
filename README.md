@@ -74,30 +74,19 @@ The platform focuses on **accessibility, scalability, and multilingual support**
 ### Frontend
 
 * React 18 + TypeScript
-* Vite
 * React Router
 * Tailwind CSS
-* shadcn/ui & Radix UI
 
 ### Backend & Services
 
 * Node.js + Express
 * Firebase (Auth, Database, Storage)
-* Supabase (real-time features)
 * Google Gemini AI
 
 ### Video & Communication
 
 * Jitsi React SDK
-* WebRTC
 
-### State & Data Handling
-
-* TanStack React Query
-* Axios
-* React Hook Form + Zod
-
----
 
 ## 🧠 System Workflow
 
